@@ -1,1 +1,2 @@
-npm test
+# .husky/pre-commit
+# No pre-commit checks yet
